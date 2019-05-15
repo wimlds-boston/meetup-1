@@ -1,7 +1,6 @@
 ## WiMLDS Boston #1
 
-### Host: Crayon
-### Sponsor: Crayon
+### Host & Sponsor: Crayon
 
 ### Introduction: Haylee
 ### Lightning Talks
